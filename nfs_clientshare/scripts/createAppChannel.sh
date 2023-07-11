@@ -1,0 +1,1 @@
+peer channel create -o orderer:7050 -c mychannel -f ./channel-artifacts/mychannel.tx --outputBlock ./channel-artifacts/mychannel.block --tls --cafile /organizations/ordererOrganizations/lboro.ac.uk/orderers/orderer.lboro.ac.uk/msp/tlscacerts/tlsca.lboro.ac.uk-cert.pem
