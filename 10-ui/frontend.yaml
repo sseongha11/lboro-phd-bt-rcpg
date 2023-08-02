@@ -20,7 +20,7 @@ spec:
             requests:
               memory: "250Mi"
               cpu: "200m"
-          image: sseongha11/hlf-frontend:1.7
+          image: sseongha11/hlf-frontend:1.8
 
 ---
 apiVersion: v1

@@ -11,6 +11,7 @@ nfs_clientshare
 # Icon must end with two \r
 Icon
 
+prerequisite/chaincode/basic/*
 
 # Thumbnails
 ._*
